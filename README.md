@@ -161,3 +161,7 @@ The role can do exactly what it needs (read) and nothing more (write).
 - Security documentation and GitHub version control
 
 > Screenshots have been redacted to remove the AWS account ID, public IP addresses and local machine details.
+
+---
+
+More of my projects and write-ups: **[asheriff15.github.io](https://asheriff15.github.io)**
